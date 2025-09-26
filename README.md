@@ -1,4 +1,6 @@
 # 🏀 Michael Jordan vs LeBron James – Stats Analysis
+![Dashboard Preview](dashboards/Dashboard1.png)
+
 
 This project compares the legendary careers of **Michael Jordan** and **LeBron James** using both **Python (Pandas, Matplotlib, JupyterLab)** and **Tableau Public**.  
 It demonstrates data cleaning, analysis, and visualization workflows to extract **key insights, KPIs, and trends**.
